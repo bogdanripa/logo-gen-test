@@ -1,12 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="42 19 323 323" role="img" aria-labelledby="logo-title">
   <title id="logo-title">Flower logo</title>
   <g transform="translate(203.5,180.5)">
-    <g transform="translate(-116.91,67.5) rotate(-4)">
-      <path d="M -38,0 C -15.2,-14 15.2,-14 38,0 C 15.2,14 -15.2,14 -38,0 Z" fill="#344636"/>
-    </g>
-    <g transform="translate(116.91,67.5) rotate(4)">
-      <path d="M -38,0 C -15.2,-14 15.2,-14 38,0 C 15.2,14 -15.2,14 -38,0 Z" fill="#344636"/>
-    </g>
     <circle r="156" fill="none" stroke="#344636" stroke-width="3"/>
     <circle r="143" fill="none" stroke="#c9b98d" stroke-width="1.5"/>
     <g id="flower">
@@ -24,6 +18,12 @@
       <g transform="rotate(330)"><ellipse cx="0" cy="-46" rx="29" ry="46" fill="#be8085"/></g>
       <circle r="21.5" fill="none" stroke="#c3a35a" stroke-width="9"/>
       <circle r="8.5" fill="#344636"/>
+    </g>
+    <g transform="translate(-116.91,67.5) rotate(-4)">
+      <path d="M -38,0 C -15.2,-14 15.2,-14 38,0 C 15.2,14 -15.2,14 -38,0 Z" fill="#344636"/>
+    </g>
+    <g transform="translate(116.91,67.5) rotate(4)">
+      <path d="M -38,0 C -15.2,-14 15.2,-14 38,0 C 15.2,14 -15.2,14 -38,0 Z" fill="#344636"/>
     </g>
   </g>
 </svg>
